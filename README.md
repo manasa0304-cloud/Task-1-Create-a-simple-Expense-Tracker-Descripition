@@ -39,7 +39,8 @@ The Simple Expense Tracker is a personal finance management application used to 
 # CONCLUSION
 
 The Simple Expense tracker is an effective application for managing personal finances by recording and organizing daily expenses.It provides users with a convenient way to monitor spending,calculate total expenditures, and maintain budget control.By simplifying expense management, the system helps users develop better financial habits and make informed decission regarding their money.
-<img width="1280" height="977" alt="WhatsApp Image 2026-06-13 at 10 45 31 AM" src="https://github.com/user-attachments/assets/441f52e1-26e0-4f61-aec2-27d9856254d3" />
-<img width="1280" height="901" alt="WhatsApp Image 2026-06-13 at 10 45 31 AM (1)" src="https://github.com/user-attachments/assets/ec7de422-4e31-4489-8505-439b32acb283" />
+<img width="1280" height="977" alt="WhatsApp Image 2026-06-13 at 10 45 29 AM" src="https://github.com/user-attachments/assets/680ba493-5e8f-40d7-8ebb-1e023785ec4f" />
+<img width="1280" height="901" alt="WhatsApp Image 2026-06-13 at 10 45 29 AM (1)" src="https://github.com/user-attachments/assets/1698f8d8-fbb0-4fc1-87eb-1901b2f7ef92" />
+
 
 
